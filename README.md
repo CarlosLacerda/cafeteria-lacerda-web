@@ -24,7 +24,7 @@ de contato.
     ├── index.html          # Página principal do site
     ├── styles.css          # Arquivo de estilos CSS
     ├── img/
-    │   └── inicial.png     # Imagem de demonstração da cafeteria
+    │   └── demo.png     # Imagem de demonstração da cafeteria
 
 ------------------------------------------------------------------------
 
