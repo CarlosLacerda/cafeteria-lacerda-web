@@ -89,7 +89,7 @@ Inclui os direitos autorais da Cafeteria Lacerda.
 
 ## 📸 Demonstração
 
-![Demonstração da Cafeteria Lacerda](https://github.com/CarlosLacerda/cafeteria-lacerda-web/blob/main/img/inicial.png?raw=true)
+![Demonstração da Cafeteria Lacerda](img/demo.png)
 
 ------------------------------------------------------------------------
 
